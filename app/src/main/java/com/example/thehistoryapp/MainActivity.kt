@@ -27,7 +27,8 @@ class MainActivity : AppCompatActivity() {
         val ImageView2: ImageView = findViewById(R.id.imageView2)
 
         Clear.setOnClickListener { EditText.text.clear() }
-
+        
+       // 
         Generate.setOnClickListener {
             val EditText = EditText.text.toString()
 
