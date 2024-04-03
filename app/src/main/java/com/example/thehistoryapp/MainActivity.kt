@@ -28,7 +28,6 @@ class MainActivity : AppCompatActivity() {
 
         Clear.setOnClickListener { EditText.text.clear() }
         
-       // 
         Generate.setOnClickListener {
             val EditText = EditText.text.toString()
 
