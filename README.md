@@ -7,6 +7,8 @@ The purpose of this app is to educate young students on famous figures of the pa
 
 
 
+![0](https://github.com/Thabiso67/The_History_App/assets/160724052/6fe14a1b-4efb-471b-a521-15031a7bb080)
+
 
 
 
@@ -18,6 +20,7 @@ The purpose of this app is to educate young students on famous figures of the pa
 The development process of this app was started by designing the User Interface. I first started by searching for historic themed pictures to put on each of the screen. Once I found two suitable pictures, I started to get to work on designing the app by putting the pictures, adding the buttons, changing the colours etc and making sure everything was in the right position which only took about an hour to do. After doing that, it was time for the coding part. I started by declaring everything that needed to be declared such the Generate and Clear button, the pictures etc. After declaring everything that needed to be declared I activated the Generate and Clear buttons for them to do what they needed to do. Both buttons were activated using ‘setOnClicklistener’. However, before activating the Generate button, I needed to research famous people of the past in to write about them in the code. Once I found all the information that was needed, I put it all into the code. To activate the Generate button I used ‘If’ and ‘else’ statements. This way if the user typed the valid age the information of the specific person would show at the bottom of the screen. The screenshot below shows all everything that needed to be declared and the activated Generate and Clear buttons.
 
 
+![0](https://github.com/Thabiso67/The_History_App/assets/160724052/61d63e75-9fd1-4c55-94ed-17e03a11349d)
 
 
 
@@ -30,6 +33,7 @@ The development process of this app was started by designing the User Interface.
 
 As mentioned before, if the user types an invalid age a message appears at the bottom of the screen prompting the user to enter a valid age. For that message to appear I just used the ‘else’ statement and typed the error message. The screenshot below shows how that error message is created.
 
+![Screenshot (21)](https://github.com/Thabiso67/The_History_App/assets/160724052/5176a7a8-3ade-4d7a-a35a-4767103813fb)
 
 
 
@@ -40,6 +44,7 @@ After I had finished making the app, it was time test it out see if it would run
 
 
 
+![0](https://github.com/Thabiso67/The_History_App/assets/160724052/bafb441a-c7a5-40b9-9a91-f325be359a3c)
 
 
 
