@@ -62,3 +62,9 @@ As I continue to learn more about programming, the process of developing this ap
 
 In conclusion, I hope that The History App will be able to offer a very interactive and engaging experience for the students as they will be able to about famous figures of the past. I hope they will be able to take advantage of easy access of this as it will aid for their studies which is one of the of this app. 
 
+
+Bibliography
+
+> Famous Birthdays. Deaths by year. [Online] Available at: https://www.famousbirthdays.com/deceased/ [Accessed 30 March 2024]
+> Wallpaper Cave. History Wallpapers. [Online] Available at: https://wallpapercave.com/history-wallpapers [Accssed 29 March 2024]
+> Wallpaper Safari. 2018. Vintage Flowers Renaissance Background. [Online] Available at: https://wallpapersafari.com/w/xmB1IG [Accesssed 29 March 2024]
