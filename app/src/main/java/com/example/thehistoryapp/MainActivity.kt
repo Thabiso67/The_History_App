@@ -17,7 +17,8 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
+        
+        // Declaring Buttons, Pictures, Textviews and Edittext
         val EditText: EditText = findViewById(R.id.editTextNumber)
         val Generate: Button = findViewById(R.id.button1)
         val Clear: Button = findViewById(R.id.clear_text)
@@ -26,8 +27,10 @@ class MainActivity : AppCompatActivity() {
         val ImageView: ImageView = findViewById(R.id.imageView1)
         val ImageView2: ImageView = findViewById(R.id.imageView2)
 
+        // Activating clear button for it to workk
         Clear.setOnClickListener { EditText.text.clear() }
-        
+
+        // Activating Generate button
         Generate.setOnClickListener {
             val EditText = EditText.text.toString()
 
